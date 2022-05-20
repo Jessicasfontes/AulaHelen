@@ -1,0 +1,89 @@
+Nome da empresa:         Bee System Tech  
+
+Quantidade de Funcionários:
+
+Quantidade de funcionários são 14 pessoas.
+
+Perfil dos Funcionários (área de atuação)
+
+Quantidade = 4: Programador Back e Front end
+Quantidade = 1: Representante comercial
+Quantidade = 1: Programador de banco de dados 
+Quantidade = 2: Suporte/Manutenção
+Quantidade = 1: Tec de rede 
+Quantidade = 1: Comercial Interno 
+Quantidade = 1: Financeiro 
+Quantidade = 1: Juridico 
+Quantidade = 1: Auxiliar Geral
+Quantidade = 1: Marketing 
+
+
+Estudo contendo os modelos de processos de software com uma breve apresentação de cada modelo:
+
+Metodologia Agile:
+
+O objetivo principal é trazer os benefícios ágeis para a gestão de projetos e, até mesmo, para a administração da própria empresa, pois o mercado altamente volátil exige que as companhias possam responder rapidamente às mudanças.
+Princípios são:
+ a satisfação do cliente por meio de entrega contínua de software deve ser priorizada;
+ O aceite de mudança de requisitos pode ser realizado para garantir os requisitos do cliente; 
+Entregas constantes de software devem ser realizadas;
+ Deve existir cooperação diária entre os desenvolvedores e quem tem conhecimento acerca do negócio;
+a comunicação deve ser direta;
+um sistema funcionando é a única maneira de medir o progresso;
+manter a simplicidade é fundamental;
+
+Modelo cascata:
+
+O modelo CASCATA (conhecido também como sequencial linear) é mais antigo e simples se comparado com o RAD, por exemplo, e consiste em começar uma fase após finalizar outra, pois a constituição de uma interfere diretamente no início e desempenho da próxima.
+Requisitos: Possui uma abordagem sistemática e sequencial, envolve a coleta de requisitos em nível do sistema e esta etapa é essencial para que o software consiga fazer interface com outros elementos (hardware, pessoas e banco de dados).
+Dificuldades: a versão executável só ficará pronta quando estiver em uma etapa avançada do desenvolvimento e durante o fluxo sequencial, geralmente, ocorrem muitas variações do plano inicial e todas as mudanças afetam diretamente no rumo em que o desenvolvimento vai tomar.
+Qualidades: Quando o modelo atinge um nível avançado no desenvolvimento ele fica apto a estar executável sem muitas falhas e, apesar de ser mais simples, através dele já se consegue obter um sistema completo.
+
+Modelo Espiral: 
+
+O modelo espiral engloba as melhores características do modelo de cascata e da prototipação. Ele é dividido em uma série de atividades de trabalho. Cada ciclo na espiral representa uma fase do processo de software, os ciclos podem ser concentrados nas possibilidades do sistema, na definição dos requisitos dos sistemas, no projeto do sistema, na construção do sistema, etc… A gerência que deve decidir como estruturar o projeto em fases. 
+
+A decisão de sua empresa sobre qual modelo vai usar para desenvolver o software dentro de sua empresa, apresentando a justificativa pela escolha 
+
+A melhor metodologia para a Bee System Tech é a metodologia Agile, ela promete melhor desempenho, a diminuição do tempo de entrega do produto é uma das principais vantagens proporcionadas por esse método, permitindo que sejam realizadas várias entregas pontuais ao longo de todo o processo de desenvolvimento e, assim, os erros de rota são corrigidos mais rapidamente, fazendo com que a empresa consiga uma melhor conexão com cliente e fazendo com que os desenvolvedores consiga entregar suas tarefas dentro do prazo final de criação. Queremos proporcionar aos nossos clientes a oportunidade de acompanhar o processo de criação. A maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado. 
+Como estaremos envolvendo os nossos clientes ao longo de todo o desenvolvimento, é dada a possibilidade de que solicitações dos mesmo sejam realizadas durante esse processo de maneira rápida.
+E dentro da metodologia Agile, vamos utilizar o Scrum que tem como base o planejamento iterativo e incremental.
+
+Planejamento de software 
+ferramentas = colocar banco de dados usado, ferramenta de gestão, linguagem de programação back e front
+
+Artefatos       
+Apresenta a metodologia
+
+Metodologia Scrum
+
+Apresenta as ferramentas 
+Apresentar arquivo de artefatos 
+Reunião com o cliente
+Relatório
+Especificações de requisitos
+Relatório 
+Requisitos funcionais, não funcionais e adiados
+Relatório
+Proposta de desenvolvimento.
+(metodologia em que o processo de desenvolvimento de software ocorrerá)
+Relatório
+define a arquitetura de funcionamento do sistema
+Reunião de Planejamento
+Desenvolver uma arquitetura de projetos 
+Cadeia de processos 
+Testes
+Relatório 
+Fazer:
+Requisitos do usuário
+Requisitos do software (modelagem)
+Fazer documentação especificando uma linguagem padrão para os funcionários trabalharam nos bancos de dados e no projeto (dicionário)
+Dicionário de Dados  
+No dicionário de dados devemos explicar os campos que possuímos nas tabelas. Então podemos seguir esse modelo no exemplo da Professora Helen.
+VARIÁVEL | DESCRIÇÃO | PAPEL NA ANÁLISE | TIPO | TAMANHO
+“Papel na análise: é importante definir se a variável é de identificação (ID), se é a variável resposta (variável dependente, cuja explicação ou predição está sendo buscada na análise), ou se é uma variável explicativa (variável independente, cujo comportamento contém informações acerca da variável resposta).”
+Por exemplo: 
+nome | É ATRIBUÍDO AO NOME DO CLIENTE | Explicativa | Categórica(String) | 0-30 caracteres
+dataNascimento | É ATRIBUÍDO A DATA DO NASCIMENTO DO CLIENTE | Explicativa | Numérica(DATE) | XX-XX-XXXX (8 caracteres)
+genero | É ATRIBUÍDO IDENTIFICADO PELO CLIENTE | Explicativa | Binária(INT) | 2 Categorias (F OU M).
+Biblioteca de Estrutura de Dados Úteis 
